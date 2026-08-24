@@ -1,0 +1,6 @@
+node_modules/
+halflight.db
+halflight.db-shm
+halflight.db-wal
+server.log
+.env
